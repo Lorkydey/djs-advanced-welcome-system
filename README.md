@@ -11,4 +11,4 @@ npm i path
 ```
 
 # Original code:
-- A part of LunarTaku code has been used with his permission, you can check the original system here : https://github.com/LunarTaku/djs-welcome-system
+- A part of LunarTaku code has been used with his permission, but The major part of thee original code has been modified, you can check the original system here : https://github.com/LunarTaku/djs-welcome-system
