@@ -9,9 +9,12 @@ npm i path
 ```
 
 # Instructions:
-> Place the commands into your commands folder.
+> Place the commands into your commands folder.\n
+> 
 > Place the events in your events folder.
-> Create a new folder in the bot root direcatory and name it "schemas", and than place the schema in there.
+> 
+> Create a new folder in the bot root and name it "schemas", and than place the schema in there.
+> 
 > Create a new folder in the bot root direcatory and name it "img", and than place the images in there.
 
 # Original code:
